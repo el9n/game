@@ -1,0 +1,9 @@
+[submodule "game-backend"]
+	path = game-backend
+	url = https://github.com/el9n/game-backend
+[submodule "game-frontend-player"]
+	path = game-frontend-player
+	url = https://github.com/el9n/game-frontend-player
+[submodule "game-frontend-moderator"]
+	path = game-frontend-moderator
+	url = https://github.com/el9n/game-frontend-moderator
